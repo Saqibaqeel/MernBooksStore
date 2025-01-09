@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "titel": "Ultimate Sports Guide",
+        "price": 0,
+        "category": "Sport",
+        "desc": "Explore the world of sports, from exciting games to thrilling competitions.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 2,
+        "titel": "Healthy Eating Tips",
+        "price": 0,
+        "category": "Food",
+        "desc": "Learn about healthy eating habits, delicious recipes, and nutritional advice.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 3,
+        "titel": "The Art of Soccer",
+        "price": 100,
+        "category": "Sport",
+        "desc": "Master the techniques and strategies of soccer with this comprehensive guide.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 4,
+        "titel": "Cooking Masterclass",
+        "price": 20,
+        "category": "Food",
+        "desc": "Learn from professional chefs and enhance your cooking skills with easy recipes.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 5,
+        "titel": "Digital Marketing 101",
+        "price": 300,
+        "category": "Education",
+        "desc": "Understand the basics of digital marketing and how to leverage it for business success.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 6,
+        "titel": "Basketball Tactics",
+        "price": 50,
+        "category": "Sport",
+        "desc": "Dive into the world of basketball with expert strategies and in-depth game analysis.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 7,
+        "titel": "Baking for Beginners",
+        "price": 30,
+        "category": "Food",
+        "desc": "A beginner's guide to baking delicious cakes, cookies, and pastries at home.",
+      "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 8,
+        "titel": "Advanced Physics",
+        "price":500,
+        "category": "Education",
+        "desc": "Dive deep into the world of advanced physics concepts, theories, and experiments.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 9,
+        "titel": "Cycling Tips for Beginners",
+        "price":10,
+        "category": "Sport",
+        "desc": "Get started with cycling with expert advice on gear, technique, and safety.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 10,
+        "titel": "Vegan Cooking Made Easy",
+        "price":40,
+        "category": "Food",
+        "desc": "Discover simple and healthy vegan recipes that anyone can prepare at home.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 11,
+        "titel": "Photography Basics",
+        "price":0,
+        "category": "Education",
+        "desc": "Learn the essentials of photography and start capturing stunning photos today.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 12,
+        "titel": "Fitness at Home",
+        "price":0,
+        "category": "Sport",
+        "desc": "Get fit from the comfort of your home with simple exercises and routines.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 13,
+        "titel": "Healthy Snacks Recipes",
+        "price":0,
+        "category": "Food",
+        "desc": "Discover tasty and nutritious snack recipes that are easy to prepare.",
+        "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 14,
+        "titel": "Business Management Essentials",
+        "price": 100,
+        "category": "Education",
+        "desc": "Master the core concepts of business management and build a successful career.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    },
+    {
+        "id": 15,
+        "titel": "Running for Endurance",
+        "price": 50,
+        "category": "Sport",
+        "desc": "Enhance your running performance with tips on endurance, speed, and recovery.",
+       "img": "https://img.freepik.com/premium-photo/world-book-day-abstract-collage_23-2151210828.jpg?w=740",
+        "type": "Adult"
+    }
+]
